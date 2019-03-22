@@ -30,4 +30,6 @@ Via [nbviewer](https://nbviewer.jupyter.org/github/p3ml/latent_dirichlet_allocat
   * [LDA Spike 4 - Topic Visualization](https://nbviewer.jupyter.org/github/p3ml/latent_dirichlet_allocation/blob/master/LDA%20Spike%204%20-%20Topic%20Visualization.ipynb)
       
 
+## Notebooks about "AI Language Technology":
+
 ## More to come...
